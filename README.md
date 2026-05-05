@@ -15,7 +15,8 @@ This is a GUI-based calculator built using Python Tkinter.
 - Tkinter
 
 ## 📸 Demo
-(Add your screenshot here)
+<img width="1920" height="1080" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/25fc05cc-b32d-4db9-98ff-9551a7efff75" />
+
 
 ## 👩‍💻 Author
 Avaniii
