@@ -19,4 +19,4 @@ This is a GUI-based calculator built using Python Tkinter.
 
 
 ## 👩‍💻 Author
-Avaniii
+Avani
